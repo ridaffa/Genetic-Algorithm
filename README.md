@@ -5,7 +5,6 @@ Dengan mencoba bruteforce , nilai yang didapatkan berkisar -2 < h .
 B.	Strategi Penyelesaian Masalah 
 1.	Menggunakan rumus fitness = -h, karena mencari nilai minimum pada rumus di atas yang hasilnya ada yang kurang dari 0 
 2.	Mencari parent menggunakan metode/algoritma Tournament Selection 
-3.	Berikut Flowchart algoritma program 
  
  
 C.	Parameter yang digunakan beserta nilai optimal yang dipakai 
@@ -14,9 +13,7 @@ b.	Panjang Kromosom = 10
 c.	Probabilitas Mutasi = 0.7 
 d.	Probabilitas Crossover = 0.8 
 e.	Generasi = 20 
-Hasil run berdasarkan parameter di atas 
- 
- 
+
  
 D.	Tabel Percobaan 
 Percobaan ke- 	X1 	X2 
